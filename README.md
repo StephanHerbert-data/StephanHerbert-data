@@ -43,7 +43,7 @@ I love learning through small, focused projects — you’ll find plenty of them
 🔍 **Exploratory Data Analyses**  
 📊 **Dashboard prototypes in Power BI & Tableau**  
 🛠️ **Hands-on exercises in SQL & Python**  
-🏗️ **My Data Analytics Bootcamp capstone project "Smart_home_Solar_panels"**
+🏗️ **My Data Analytics Bootcamp capstone project ["Smart_home_Solar_panels"](https://github.com/StephanHerbert-data/Smart_home_Solar_panels)**
 
 I focus on **clarity, clean structure, and practical problem-solving** — every project teaches something new.
 
