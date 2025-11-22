@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Data Analyst · Problem Solver · Continuous Learner</h3>
+<h3 align="center"> Problem Solver · Data Analyst · Ex-Acoustic Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/StephanHerbert-data"><img src="https://komarev.com/ghpvc/?username=StephanHerbert-data&style=flat-square&color=blue" alt="Profile views" /></a>
